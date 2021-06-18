@@ -1,0 +1,30 @@
+body{
+    
+}
+#main{
+    margin-top: 0px;
+
+    display: flex;
+    justify-content: center;
+}
+#container{
+   
+    display: flex;
+    flex-direction: column;
+    width: 100vh;
+}
+#lib{
+    text-align: center;
+    font-size: 1.5rem;
+}
+#books{
+   
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+
+}
+.booksdiv{
+    width: 50vw;
+}
+}
