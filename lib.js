@@ -43,9 +43,9 @@ Display.prototype.show = function (type,message) {
     messageb.innerHTML = `<div id = "aler" class="alert alert-${type} role="alert">
     ${message}
   </div>`
-//   setTimeout(function () {messageb.innerHTML=''
+  setTimeout(function () {messageb.innerHTML=''
       
-//   }, 2000);
+   }, 2000);
     
 }
 
